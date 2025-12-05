@@ -23,7 +23,7 @@ namespace SeleniumTest
         }
 
         [Test]
-        public void UserLogin_Failes()
+        public void UserWithWrongUsername()
         {
             //hitta elementen att testa för att logga in 
 
